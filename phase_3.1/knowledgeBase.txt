@@ -1,0 +1,5 @@
+LangChain is a framework for building applications powered by large language models.
+
+It helps developers create chains, agents, and retrieval systems in a structured way.
+
+RAG stands for Retrieval-Augmented Generation. It reduces hallucination by grounding answers in documents.
